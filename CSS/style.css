@@ -1,0 +1,88 @@
+#header {
+  background-image: url(../img/background2.jpg);
+  color: rgb(236, 229, 229);
+}
+
+#foto {
+  width: 450px; 
+  height: 500px;
+  border-radius: 5%;
+}
+
+#nama {
+  text-align: center;
+  font-size: 40px;
+  margin-left: 110px;
+}
+
+#tulisan {
+  display: flex;
+  align-items: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 250px;
+  background-image: url(../img/background2.jpg);
+  padding: 10px 0;
+}
+
+nav a {
+  color: aliceblue;
+}
+
+#about {
+  background-image: url(../img/background2.jpg);
+  color: #f9f1f1;
+}
+#about h1 {
+  font-size: 50px;
+}
+
+#foto2 {
+  width: 300px;
+  height: 200px;
+  border-radius: 10%;
+  margin: 10px;
+}
+#perkenalan {
+  width: 40%;
+  font-size: 16px;
+  text-align: justify;
+  justify-content: space-between;
+}
+
+#tabel {
+  background-image: url(../img/background2.jpg);
+  max-width: 600px;
+  margin: 10px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#perkenalan {
+  width: 800px;
+  margin: auto;
+  font-size: 18px;
+}
+
+#contact {
+  background-image: url(../img/background2.jpg);
+  color: #f7f6f6;
+  height: 480px;
+}
+#copy {
+  background-image: url(../img/background2.jpg);
+}
+
+#download {
+  background-image: url(../img/background2.jpg);
+  color: #f7f6f6;
+}
+#cv {
+  width: 1000px;
+  height: 1300px;
+  display: block;
+  margin: 0 auto;
+}
